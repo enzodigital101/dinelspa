@@ -111,6 +111,11 @@
     color: var(--bs-primary);
 }
 
+.container {
+  padding: 10px;
+  text-align: center;
+}
+
 .spalogo{
    {
   max-width: 100%; 
