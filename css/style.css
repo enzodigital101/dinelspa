@@ -111,6 +111,14 @@
     color: var(--bs-primary);
 }
 
+.spalogo{
+   {
+  max-width: 100%; 
+  height: auto; 
+  display: block; 
+  margin: 0 auto; 
+}
+
 .navbar .dropdown-toggle::after {
     border: none;
     content: "\f107";
